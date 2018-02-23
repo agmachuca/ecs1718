@@ -1,0 +1,84 @@
+<html>
+  <head>
+    <title>Angel Machuca</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+  
+<style>
+
+.body {
+    color: teal;
+}
+img {
+    border: 1px solid #ddd;
+    background-color: purple;
+    border-radius: 4px;
+    padding: 20px;
+    width: 150px;
+}
+.jumbotron {
+	background-color: teal;
+    color: white;
+}
+.button {
+	color: white;
+    background-color: teal;
+}
+</style>
+</head>
+  <body>
+ <div class="button">
+  <h2>Chihuahuas</h2>
+  <button onclick="www.akc.org/dog-breeds/chihuahua/'" type="button">
+     Website 1</button>
+  <button onclick="http://www.vetstreet.com/dogs/chihuahua'" type="button">
+     Website 2</button>
+  <button onclick="http://www.petwave.com/Dogs/Breeds/Chihuahua/Personality.aspx'" type="button">
+     Website 3</button>
+     </div>
+  <div class="container">
+  <div class="jumbotron">
+    <h1>Chihuahua Dogs</h1>      
+    <h2>Canis Familiaris</h2>
+  </div>
+  <div class="body">
+  <div class="container">
+  <div class="row">
+    <div class="col-md-4">
+      <div class="thumbnail">
+        <a href=http://www.yourpurebredpuppy.com/reviews/chihuahuas.html target="_blank">
+          <img src=http://www.yourpurebredpuppy.com/dogbreeds/photos-CD/chihuahuasf1.jpg alt="Lights" style="width:100%">
+          <div class="caption">
+            <p>Chihuahua</p>
+          </div>
+        </a>
+      </div>
+    </div>
+    <div class="col-md-4">
+      <div class="thumbnail">
+        <a href="https://3milliondogs.com/blog-assets-two/2015/02/chihuahua1.jpg" target="_blank">
+          <img src="https://3milliondogs.com/blog-assets-two/2015/02/chihuahua1.jpg" alt="Nature" style="width:100%">
+          <div class="caption">
+            <p>White Coat Chihuahua</p>
+          </div>
+        </a>
+      </div>
+    </div>
+    <div class="col-md-4">
+      <div class="thumbnail">
+        <a 
+ <img src=http://www.yourpurebredpuppy.com/dogbreeds/photos-CD/chihuahuasf1.jpg alt="Lights" style="width:100%">
+  
+          
+          </div>
+        </a>
+      </div>
+    </div>
+  </div>
+</div>
+</div>
+  </body>
+</html>https://vetstreet.brightspotcdn.com/dims4/default/1eda3a7/2147483647/thumbnail/645x380/quality/90/?url=https%3A%2F%2Fvetstreet-brightspot.s3.amazonaws.com%2Fcf%2Ffd%2Fa8e1cbb94e089302d632a143bb89%2FAP-1IRTJ4-ph645080113.jpg

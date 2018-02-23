@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Angel Machuca<title>
+    </head>
+                <style>
+            #grad1 {
+                height:1000px;
+                background: red;
+                background: linear-gradient(red, yellow, green);
+            }
+        </style>
+        
